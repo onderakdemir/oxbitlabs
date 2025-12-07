@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://oxbitlabs.com">
-    <img src="https://via.placeholder.com/150/0B0C10/00FFFF?text=0x" alt="Oxbit Labs Logo" width="100" height="100">
+    <img src="./oxbit-logo.png" alt="Oxbit Labs Logo" width="100" height="100">
   </a>
 
   <h1 align="center">Oxbit Labs</h1>
@@ -80,7 +80,7 @@ We believe in using the right tool for the job. Our core stack includes:
 We are open to B2B partnerships and collaborative open-source contributions.
 
 * **Website:** [oxbitlabs.com](https://oxbitlabs.com)
-* **Inquiries:** `hello@oxbitlabs.com` *(Example)*
+* **Inquiries:** `hello@oxbitlabs.com`
 * **Location:** Global / Remote First
 
 <br />
